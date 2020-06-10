@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "coffee-script": "~1.6.3",
-    "fibers": "~1.0.1",
+    "fibers": "^5.0.0",
     "lodash": "~2.2.1"
   },
   "devDependencies": {
